@@ -95,11 +95,10 @@
 </table>
 
 ### 八、報名方式:
-<div align="right">
+1. 報名日期 : 即日起開放報名至2022年6月19日止
+2. 繳費日期 : 於2022年7月10日前完成繳費<div align="right">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTotsZe3lidgkKJRR_VNg-_f_Skr3l78Tl6Ww&usqp=CAU">
 </div>
-1. 報名日期 : 即日起開放報名至2022年6月19日止
-2. 繳費日期 : 於2022年7月10日前完成繳費
 
 ### 九、聯絡資訊:
 國防大學理工學院資訊工程學系  
