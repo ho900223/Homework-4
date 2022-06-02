@@ -43,9 +43,9 @@
 
 <table>
   <tr>
-    <td>建議時間 </td>
+    <td>時間 </td>
     <td>活動  </td>
-    <td>建議時間 </td>
+    <td>時間 </td>
     <td>活動  </td>
   </tr>
   <tr>
