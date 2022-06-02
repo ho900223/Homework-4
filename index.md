@@ -2,8 +2,6 @@
 <img src="https://www.ccit.ndu.edu.tw/var/file/0/1000/img/1/200124766.png">
 </div>
 
-# <center>國防大學理工學院資工系</center>
-
 ## <center>認識常見的網路攻擊&體驗軍校生活</center>
 
 ### 一、活動宗旨:
