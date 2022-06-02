@@ -1,8 +1,8 @@
 <div align="center">
 <img src="https://www.ccit.ndu.edu.tw/var/file/0/1000/img/1/200124766.png">
-</div>
 
 ## <center>認識常見的網路攻擊&體驗軍校生活</center>
+</div>
 
 ### 一、活動宗旨:
 
