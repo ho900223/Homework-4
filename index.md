@@ -1,37 +1,113 @@
-## Welcome to GitHub Pages
+# <center>國防大學理工學院資工系</center>
+## <center>認識常見的網路攻擊&體驗軍校生活</center>
 
-You can use the [editor on GitHub](https://github.com/ho900223/Homework-4/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 一、活動宗旨:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+生活中，有許多事情都是在虛擬的網路世界上處理，舉凡購物消費、理財，或是社交等等。  
+然而，在享受科技所帶來的便利的同時，人們與虛擬世界越來越近，資訊安全也與我們息息相關。  
+因此活動營舉辦之宗旨在於，帶領同學們認識資訊安全，提升危機意識，做好資安防護，免於受到有心人士的侵害。   
+<br>
 
-### Markdown
+### 二、活動時間:
+線上授課 : 2022/07/15 ~ 2022/07/16
+**(疫情嚴峻，課程期間全程配戴口罩)**  
+<br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 三、活動地點
+理253教室 (有電腦可使用)
+<br>
 
-```markdown
-Syntax highlighted code block
+### 四、招生對象:
+20-30人 高中生為佳 (對資訊工程有基礎了解為優)
+<br>
 
-# Header 1
-## Header 2
-### Header 3
+### 五、課程費用:
+每人酌收500元講師費用，低收入戶或中低收入戶學生出示證明，可免收報名費。  
+<br>
 
-- Bulleted
-- List
+### 六、主辦單位:
+國防大學理工學院資訊工程學系
 
-1. Numbered
-2. List
+### 七、活動流程:
 
-**Bold** and _Italic_ and `Code` text
+<table>
+  <tr>
+    <td>建議時間 </td>
+    <td>活動  </td>
+    <td>建議時間 </td>
+    <td>活動  </td>
+  </tr>
+  <tr>
+    <td>Day1 0900-1000</td>
+    <td>成員介紹 & 大地遊戲</td>
+    <td>Day2 0600-0700</td>
+    <td>小盥洗 & 運動</td>
+  </tr>
+    <tr>
+    <td>Day1  1000-1200</td>
+    <td>介紹CTF & 分組</td>
+    <td>Day2 0700-0800</td>
+    <td>用餐</td>
+  </tr>
+    <tr>
+    <td>Day1 1200-1400</td>
+    <td>用餐 & 午休</td>
+    <td>Day2 0800-0900  </td>
+    <td>分組 & 抽題</td>
+  </tr>
+    <tr>
+    <td>Day1 400-1600</td>
+    <td>小組競賽</td>
+    <td>Day2 0900-1200 </td>
+    <td>認識工具及實作介紹 & 動手架設環境</td>
+  </tr>
+    <tr>
+    <td>Day1 600-1700 </td>
+    <td>心得分享 & 頒獎</td>
+    <td>Day2 1200-1400 </td>
+    <td>用餐 & 午休</td>
+  </tr>  
+    <tr>
+    <td>Day1 1700-1800</td>
+    <td>參觀校園</td>
+    <td>Day2 1400-1600 </td>
+    <td>簡單的攻擊實作 & 延伸應用</td>
+  </tr>
+    <tr>
+    <td>Day1 1800-1900 </td>
+    <td>用餐</td>
+    <td>Day2 1600-1700 </td>
+    <td>各組成果分享 & 回饋</td>
+  </tr>
+      <tr>
+    <td>Day1 1900-2200 </td>
+    <td>團康 & 自由時間</td>
+    <td>Day2 1700-1800 </td>
+    <td>整理場地</td>
+  </tr>
+      <tr>
+    <td>Day1 2200-0600 </td>
+    <td>就寢</td>
+    <td>Day2 1800~ </td>
+    <td>返家</td>
+  </tr>
+ 
+</table>
 
-[Link](url) and ![Image](src)
-```
+### 八、報名方式:
+1. 報名日期 : 即日起開放報名至2022年6月19日止
+2. 繳費日期 : 於2022年7月10日前完成繳費
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### 九、聯絡資訊:
+國防大學理工學院資訊工程學系  
+連絡電話 : 03-380-1126，張老師、蔡老師  
+服務時間 : 每週一至週六0900-1930  
+聯絡信箱 : xxxxxx@ccit.ndu.edu.tw  
 
-### Jekyll Themes
+### 十、備註:
+1.	課程結束可獲得修課證明乙張。
+2.	主辦單位保有修改及終止本活動之權力。  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ho900223/Homework-4/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<div align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTotsZe3lidgkKJRR_VNg-_f_Skr3l78Tl6Ww&usqp=CAU">
+</div>
